@@ -12,6 +12,8 @@ body{
  background-position: center;
  background-repeat: no-repeat;
  font-style: oblique;
+ font-size: 25px;
+
  
 }
 
@@ -23,13 +25,15 @@ main {
   height: 100vh;
 }
 h1{
-  margin-bottom: 10px;
+  margin-bottom: 25px;
+  font-size: 50px;
 }
 
 #add,#clear,#inputText{
 padding: 5px 10px;
 border-radius: 20px;
 cursor: pointer;
+font-size: 20px;
 
 }
 #add{
@@ -52,10 +56,12 @@ div.par {
 margin-right: 60px;
 
 
+
 }
 .sonuc{
 
     text-align: center;
+   
 }
 
 .newText,.newText2{
